@@ -20,6 +20,6 @@ Welcome to this course! In this repository you will find the Jupyter notebooks w
 13. [*Course Conclusion*](https://methods.sagepub.com/video/deep-learning-in-python-course-conclusion)
 
 
-
+<hr>
 
 ![](SRM.jpg)
