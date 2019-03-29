@@ -1,7 +1,7 @@
 # Deep Learning in Python
 ### Instructor: Soubhik Barari
 
-Welcome! This is the official code repository for the online course **"Deep Learning in Python"** which is part of the SAGE Research Methods collection *Data Science, Big Data Analytics, and Digital Methods*.
+Welcome! This is the official code repository for the online course **"Deep Learning in Python"** which is part of the SAGE Research Methods collection on *Data Science, Big Data Analytics, and Digital Methods*.
 
 In this repository you will find the Jupyter notebooks where you can interactively run the code snippets from the course. Below you can find links to the course content videos.
 
